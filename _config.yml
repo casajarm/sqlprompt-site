@@ -1,4 +1,4 @@
-baseurl: '/sqlprompt-site'
+baseurl: ''
 permalink: pretty
 title: 'Jekyll Serif'
 
